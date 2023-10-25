@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Asli Sağlam",
+        "department" :"Bilişim",
+        "salary" : "3000"
+    },
+    {
+        "name": "Nazli SAğlam",
+        "department" :"üretim",
+        "salary" : "2400"
+    },
+    {
+        "name": "Gamze kalafat",
+        "department" :"eğitim",
+        "salary" : "6300"
+    }
+]
